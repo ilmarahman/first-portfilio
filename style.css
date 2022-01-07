@@ -1,0 +1,134 @@
+
+body {
+    font-family: 'Yeseva One', cursive; 
+    margin: 0px;
+    padding: 0px;
+}
+h1{ 
+    font-size: 50px;
+}
+.blue-color{color: blue;}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
+ .flexible-container{
+     display: flex;
+     padding: 0px 100px;
+     box-sizing: border-box;
+
+}
+.section2{
+    margin: 100px 0px;
+}
+
+.Explore-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, cyan);
+
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.mission-2022{
+    text-align: center;
+}
+.m-2022{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.m-2022 div{
+    width:20%;
+    padding: 20px;
+}
+.m-2022 div img{
+    width: 100px;
+}
+#mission{
+    background-color: skyblue;
+    border-radius: 10px;
+}
+#vission{
+    background-color:cyan;
+    border-radius: 10px;
+}
+#goals{
+    background-color: wheat;
+    border-radius: 10px;
+}
+.without{
+    display: flex;
+    padding: 0px 100px;
+    box-sizing: border-box;
+    margin: 150px 0px;}
+.limits{
+    background-image:url(./shape-6.png) ;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left center;
+}
+
+.know{
+    background-image:url(./shape-6.png) ;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right bottom;
+}
+.know-img {
+    display: flex;
+    justify-content: end;
+}      
+
+.full-inquiry{
+    width: 70%;
+    display: flex;
+    height: 180px;
+    background-image: url("Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 15%;
+}
+
+.full-inquiry h1{
+    color: aliceblue;
+    margin-top: 65px;
+}
+.full-inquiry .button {
+    margin: 85px 123px;
+}
+.button a {
+    background-image: linear-gradient(
+45deg
+, rgb(250, 77, 106), tomato);
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+.Preseverance p{
+    color:white;
+}
+.Preseverance {
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    margin-top: 50px;
+}
+.pink-color{
+    color: pink;
+}
+.white-color{
+    color: white;
+}
+.before{
+    padding-left: 8px;
+    border-left: 4px solid blue;
+}
+
+
